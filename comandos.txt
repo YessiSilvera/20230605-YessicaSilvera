@@ -1,0 +1,119 @@
+ Id CommandLine
+  -- -----------
+   1 ls
+   2 cd .\Code\
+   3 git clone git@github.com:YessiSilvera/YessiSilvera.git
+   4 git log
+   5 ls
+   6 cd .\YessiSilvera\
+   7 ls
+   8 git status
+   9 git log
+  10 touch test.txt
+  11 open .
+  12 ls
+  13 ls
+  14 git status
+  15 git add .
+  16 git status
+  17 git commit -m "commit de prueba"
+  18 git config --global user.name "Yessica Silvera"
+  19 git config --global user.email "yessi.silv21@gmail.com"
+  20 git commit -m "commit de prueba"
+  21 git status
+  22 git log
+  23 git push origin main
+  24 ls
+  25 cc
+  26 cd
+  27 cd ..
+  28 touch YessiSilvera/archivo.txt
+  29 mv YessiSilvera/archivo.txt
+  30 git status
+  31 .git
+  32 cd
+  33 cd YessiSilvera
+  34 git chekout -d
+  35 git checkout -d
+  36 git init
+  37 git add README.md
+  38 git commit -m "first commit"
+  39 git branch -M main
+  40 git remote add origin git@github.com:YessiSilvera/20230605-YessicaSilvera.git
+  41 git push -u origin main
+  42 mkdir comandos.txt
+  43 mkdir main.js index.html
+  44 ls
+  45 mkdir main.js
+  46 ls
+  47 mkdir index.html
+  48 ls
+  49 commit 01 de YessicaSilvera
+  50 git status
+  51 touch commandos.txt
+  52 ls
+  53 mv .\index.html.txt index.html
+  54 ls
+  55 mv .\main.js.txt main.js
+  56 ls
+  57 git status
+  58 git add.
+  59 git add .
+  60 git commit -m "01 de YessicaSilvera"
+  61 git branch
+  62 git push origin main
+  63 git log
+  64 ls
+  65 cd ..
+  66 mkdir 20230605-YessicaSilvera
+  67 ls
+  68 cd
+  69 cd 20230605-YessicaSilvera
+  70 echo "# 20230605-YessicaSilvera" >> README.md
+  71 git init
+  72 git add README.md
+  73 git commit -m "first commit"
+  74 git branch -M main
+  75 git remote add origin git@github.com:YessiSilvera/20230605-YessicaSilvera.git
+  76 git push -u origin main
+  77 git branch
+  78 git log
+  79 git status
+  80 git add .
+  81 git status
+  82 git commit -m "01 de YessicaSilvera"
+  83 git status
+  84 git push origin main
+  85 git branch feature
+  86 git status
+  87 $＞ git branch
+  88 main
+  89 another_branch
+  90 feature_inprogress_branch
+  91 $＞ git checkout feature
+  92 git checkout
+  93 git checkout future
+  94 git branch
+  95 git checkout feature
+  96 git branch
+  97 mkdir Hardware
+  98 mkdir Software
+  99 mkdir SeguridadInformatica.
+ 100 git status
+ 101 git status
+ 102 git add .
+ 103 git status
+ 104 git commit -m "02 de YessicaSilvera"
+ 105 git branch
+ 106 git push origin feature
+ 107 git branch
+ 108 git checkout
+ 109 git checkout main
+ 110 git branch
+ 111 ls
+ 112 cd ..
+ 113 cd .\20230605-YessicaSilvera\
+ 114 mv .\main.js resumenHardware.txt
+ 115 ls
+ 116 mv .\index.html resumenSoftware.txt
+ 117 ls
